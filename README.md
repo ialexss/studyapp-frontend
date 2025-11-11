@@ -4,8 +4,7 @@ Frontend del sistema StudyApp construido con Next.js 16, TypeScript, Tailwind CS
 
 ## 🔗 Repositorios Relacionados
 
-- **🔧 Backend**: [StudyApp Backend](https://github.com/tu-usuario/studyapp-backend) - API REST con NestJS
-- **📚 Documentación General**: [README Principal](../README.md) - Documentación completa del proyecto
+- **🔧 Backend**: [StudyApp Backend](https://github.com/ialexss/studyapp-backend) - API REST con NestJS
 
 > **Nota**: Este es el repositorio del frontend. Para ejecutar la aplicación completa, necesitas también el backend corriendo.
 
